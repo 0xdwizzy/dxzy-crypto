@@ -30,7 +30,7 @@ I'm a **Product Manager** & **UI/UX Designer** passionate about building seamles
 
 ## 📫 Contact Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%235A3E9C?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dwizzy)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%235A3E9C?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwirijal/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%235A3E9C?style=flat&logo=twitter&logoColor=white)](https://twitter.com/0xdwizzy)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%235A3E9C?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwirijal/)  
 
 ---
 
